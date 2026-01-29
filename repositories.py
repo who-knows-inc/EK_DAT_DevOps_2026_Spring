@@ -29,4 +29,18 @@ GROUP_REPOS = [
     "documentation": [],
     "sla": "",
 }
+    
+{
+     "name": "SyntaxDevOpsSquad",
+      "gitLinks": ["https://github.com/SyntaxDevopsSquad-SDS/devops-syntaxsquad"],
+      "backend": "",
+      "frontend": "",
+      "monitoring": "",
+      "stack": [""],
+      "documentation": [""],
+      "sla": "",
+}
+
+   
 ]
+
