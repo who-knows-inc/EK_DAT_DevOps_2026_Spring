@@ -49,9 +49,9 @@ Paste the following template in the `GROUP_REPOS` list variable:
 
 2. By next week you must fill the values for the following keys: 
 
-- `name`: The name of your group.
+- `name`: The name of your group. Avoid whitespaces in the key.
 
-- `gitLinks`: The link(s) to your repositories. These will contain the code. They cannot be forks of my repositories.
+- `gitLinks`: The link(s) to your repositories. These will be **your** code repositories in **your** organization. They cannot be forks of my repositories. 
 
 
 3. Validate the syntax: 
