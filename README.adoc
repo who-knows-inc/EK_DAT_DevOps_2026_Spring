@@ -40,9 +40,9 @@ link:00._Course_Material/01._Assignments/01._Introduction/01._Before/refresh_bas
 
 
 a| 
-link:00._Course_Material/01._Assignments/01._Introduction/02._After/create_a_pr_to_repositories_py.md[Create a PR to repositories.py]
-
 link:00._Course_Material/01._Assignments/01._Introduction/02._After/github_started.md[GitHub started]
+
+link:00._Course_Material/01._Assignments/01._Introduction/02._After/create_a_pr_to_repositories_py.md[Create a PR to repositories.py]
 
 link:00._Course_Material/01._Assignments/01._Introduction/02._After/git_release.md[Create your first release on GitHub]
 
