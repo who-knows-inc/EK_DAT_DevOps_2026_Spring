@@ -11,12 +11,12 @@ GROUP_REPOS = [
 },
     {
     "name": "nasOps",
-    "gitLinks": ["https://github.com/nasOps"],
+    "gitLinks": ["https://github.com/nasOps/MunkKnows"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
     "stack": [],
     "documentation": [],
     "sla": "",
-}
+},
 ]
