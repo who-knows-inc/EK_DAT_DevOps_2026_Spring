@@ -8,7 +8,7 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-}
+},
     {
     "name": "nasOps",
     "gitLinks": ["https://github.com/nasOps"],
