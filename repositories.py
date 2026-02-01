@@ -68,5 +68,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
+},
+{
+    "name": "team24",
+    "gitLinks": ["https://github.com/DevOps-team24/legacy-whoknows"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
 }
 ]
