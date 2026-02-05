@@ -21,11 +21,11 @@ GROUP_REPOS = [
 },
 {
     "name": "ASCDevOps",
-    "gitLinks": ["https://github.com/ASCDevOps/whoknows_variations"],
+    "gitLinks": ["https://github.com/ASCDevOps/ASC_whoknows"],
     "backend": "",
     "frontend": "",
     "monitoring": "",
-    "stack": [],
+    "stack": ["GO"],
     "documentation": [],
     "sla": "",
 }, 
