@@ -20,6 +20,20 @@ The main branch is the same as what we copied from the server.
 
 There are multiple ways to achieve this. One is to install and use the `2to3` tool.
 
+#### Installation
+
+Install the tool 2to3 (Windows/Linux):
+
+```bash
+$ pip install 2to3
+```
+
+Or on MacOS:
+
+```bash
+$ pipx install 2to3
+```
+
 
 #### Usage
 

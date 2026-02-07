@@ -51,20 +51,6 @@ Video guide on how to download for Macbook M1 or newer: https://youtu.be/Qvfvj-U
 
 ---
 
-#### Try out your package manager
-
-Now that you have `homebrew` or `chocolately` installed see if you can install Python 2:
-
-```bash
-$ brew install python
-```
-
-```powershell
-$ choco install python2
-```
-
----
-
 ## Must do before week 3
 
 You can do the following before the semester start or later on. Once the semester start there are many assignments of higher priority so consider postponing this section.

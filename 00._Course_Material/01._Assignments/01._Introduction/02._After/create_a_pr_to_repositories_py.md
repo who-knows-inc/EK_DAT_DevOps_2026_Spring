@@ -11,6 +11,8 @@ Add your group to [repositories.py](/repositories.py) which is in the root of th
 
 ## `repositories.py`
 
+1. Fork **MY** semester repository. It will contain the `repositories.py` which you should edit.
+
 The file may look like this before other groups update it:
 
 ```python
@@ -28,7 +30,7 @@ GROUP_REPOS = [
 ]
 ``` 
 
-1. Create a new `dict` and add the template:
+2. Create a new `dict` and add the template:
 
 `dict` is the data structure in Python which looks similar to JSON. 
 
@@ -47,11 +49,11 @@ Paste the following template in the `GROUP_REPOS` list variable:
 }
 ```
 
-2. By next week you must fill the values for the following keys: 
+3. By next week you must fill the values for the following keys: 
 
 - `name`: The name of your group. Avoid whitespaces in the key.
 
-- `gitLinks`: The link(s) to your repositories. These will be **your** code repositories in **your** organization. They cannot be forks of my repositories. 
+- `gitLinks`: The link(s) to your repositories (minus the forked semester repositories). These will be **your** code repositories in **your** organization. They cannot be forks of my repositories. 
 
 
 3. Validate the syntax: 
