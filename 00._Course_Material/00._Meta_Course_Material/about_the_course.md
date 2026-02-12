@@ -176,5 +176,11 @@ I really want you to take ownership of the course material and interact with it 
 Make Pull Requests to suggest changes. It can be anything from fixing typos, improving explanations or tutorials etc. 
 
 
+---
 
+# AI Usage
+
+You are permitted to use AI for the course. You still have to understand what is generated for the exam.
+
+You will learn about the limitations of AI. AI can write code but not software. LLM's will never understand the full context of systems.
 

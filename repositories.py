@@ -78,6 +78,16 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
+},
+{
+    "name": "deploying-on-friday",
+    "gitLinks": ["https://github.com/deploying-on-friday/dof"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": [],
+    "documentation": [],
+    "sla": "",
 }
     
 {
