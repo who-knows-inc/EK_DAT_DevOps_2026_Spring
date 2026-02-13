@@ -81,9 +81,19 @@ Install Azures CLI `az`. Look here to find how to install it for your OS:
 
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
-OR a perhaps a better command to install for Windows here:
+In Powershell, this command can be used:
 
-https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-build
+```powershell
+$ Invoke-WebRequest -Uri https://aka.ms/installazurecliwindows -OutFile .\AzureCLI.msi; Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'; rm .\AzureCLI.msi
+```
+
+Remember to run:
+
+```bash
+$ az login
+```
+
+And select the subscription id by number.
 
 Successful criteria: Can run `az --version` in the terminal that you use. So if you install it for Powershell but always use Git Bash for instance, then you might consider a different installation method.
 

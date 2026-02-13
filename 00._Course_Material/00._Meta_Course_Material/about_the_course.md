@@ -178,7 +178,7 @@ Make Pull Requests to suggest changes. It can be anything from fixing typos, imp
 
 ---
 
-# AI Usage
+## AI Usage
 
 You are permitted to use AI for the course. You still have to understand what is generated for the exam.
 
