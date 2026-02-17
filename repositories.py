@@ -70,12 +70,12 @@ GROUP_REPOS = [
     "sla": "",
 },
 {
-    "name": "team24",
-    "gitLinks": ["https://github.com/DevOps-team24/legacy-whoknows"],
+    "name": "team36",
+    "gitLinks": ["https://github.com/DevOps-Team36/legacy-whoknows"],
     "backend": "",
-    "frontend": "",
+    "frontend": "https://huw.dk", "http://131.163.88.11"
     "monitoring": "",
-    "stack": [],
+    "stack": [Go, Sqlite, Ansible],
     "documentation": [],
     "sla": "",
 },
