@@ -43,7 +43,7 @@ GROUP_REPOS = [
     "name": "nasOps",
     "gitLinks": ["https://github.com/nasOps/MonkKnows"],
     "backend": "http://4.225.161.111",
-    "frontend": "",
+    "frontend": "http://4.225.161.111",
     "monitoring": "",
     "stack": ["Ruby", "Sinatra", "SQLite", "Nginx", "Azure VM"],
     "documentation": [],
