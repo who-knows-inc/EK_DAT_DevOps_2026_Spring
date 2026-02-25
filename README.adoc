@@ -347,4 +347,31 @@ Understands the history of DevOps and different ways to understand it.
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------
 
+| 7
+| Mar. 12th
+a|
+Guest Lecture by Jan from link:https://www.eficode.com/[Eficode]​
+a|
+link:00._Course_Material/01._Assignments/07._Guest_Lecture/01._Before/read_devops_literature_II.md[Read DevOps Literature II]
+
+link:00._Course_Material/01._Assignments/07._Guest_Lecture/01._Before/detecting_agile_bs.md[Detecting Agile BS]
+a|
+link:00._Course_Material/01._Assignments/07._Guest_Lecture/02._After/create_an_issue_template.md[Create an Issue Template]
+
+link:00._Course_Material/01._Assignments/07._Guest_Lecture/02._After/how_are_you_devops.md[How are you DevOps?]
+a|
+Knows the historical angle of DevOps and how it has evolved.
+
+Understands the problems that DevOps aims to solve in modern organizations.
+
+Understands the concept of psychological safety and why it matters. 
+
+Understands how crucial it is for business competitiveness to bring down pipeline execution time. Can implement simultanously running pipelines to cut time whenever it is possible.
+
+Has read all the course literature and can talk about the content. 
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 |===
