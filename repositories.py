@@ -62,7 +62,7 @@ GROUP_REPOS = [
 {
     "name": "Knowledgeables",
     "gitLinks": ["https://github.com/Knowledgeables/Knowledge"],
-    "backend": "",
+    "backend": "http://68.221.28.25",
     "frontend": "http://68.221.28.25",
     "monitoring": "",
     "stack": ["Golang","Nginx", "Azure VM", "SQLlite"],
