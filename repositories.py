@@ -72,8 +72,8 @@ GROUP_REPOS = [
 {
     "name": "team36",
     "gitLinks": ["https://github.com/DevOps-team36/legacy-whoknows"],
-    "backend": "huw.dk",
-    "frontend": "huw.dk",
+    "backend": "https://huw.dk",
+    "frontend": "https://huw.dk",
     "monitoring": "",
     "stack": ["GO", "Ansible", "SQLite", "Nginx"],
     "documentation": [],
