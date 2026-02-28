@@ -126,6 +126,11 @@ Have Docker Desktop installed and be ready to work with Docker. Success criteria
 
 Install Docker: https://www.docker.com/products/docker-desktop/.
 
+Ensure that you can run an image in your favorite editor:
+
+```bash
+$ docker run --rm hello-world
+```
 
 ---
 
