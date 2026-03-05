@@ -301,7 +301,7 @@ link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOp
 // Introduction
 
 link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/02._docker_compose.md[Docker compose]
-Docker compose
+// Docker compose
 
 link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/03._hot_reload_in_docker.md[Live reload in Docker]
 // Live reload in Docker
@@ -309,14 +309,14 @@ link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOp
 link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/04._debug_docker_compose.md[Debug docker compose]
 // Debug docker compose
 
-// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/05._agile.md[Agile]
-Agile
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/05._agile.md[Agile]
+// Agile
 
-// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/06._devops.md[DevOps]
-DevOps
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/06._devops.md[DevOps]
+// DevOps
 
-// link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/07._continuous_delivery.md[Continuous Delivery]
-Continuous Delivery
+link:00._Course_Material/02._Slides/06._Docker_compose_Continuous_Delivery_DevOps/07._continuous_delivery.md[Continuous Delivery]
+// Continuous Delivery
 a|
 link:00._Course_Material/01._Assignments/06._Docker_compose_Continuous_Delivery_DevOps/01._Before/100+_docker_concepts_you_need_to_know.md[100+ docker concepts you need to know]
 
