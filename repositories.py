@@ -98,6 +98,16 @@ GROUP_REPOS = [
       "stack": ["GO, SQLite"],
       "documentation": [],
       "sla": "",
-}  
+},  
+{
+    "name": "MikkelRosenqvist",
+    "gitlinks": ["https://github.com/MikkelRosenqvist/whoknows-mikkel"],
+    "backend": "",
+    "frontend": "",
+    "monitoring": "",
+    "stack": ["Python", "Flask", "SQLite"],
+    "documentation": [],
+    "sla": "",
+},
 ]
 
