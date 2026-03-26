@@ -27,7 +27,7 @@ Here is the message that the hacker sent to you:
 ```plaintext
 To whom it may concern,
 
-I have managed to breach your security. I have access to all your data. I will give yo a grace period to close the gap before I choose to act on your bad security. 
+I have managed to breach your security. I have access to all your data. I will give you a grace period to close the gap before I choose to act on your bad security. 
 
 To prove that I am not making it up, here are some of your users and their corresponding passwords. 
 ```
