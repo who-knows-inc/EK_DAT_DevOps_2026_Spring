@@ -4,6 +4,8 @@
 
 **Motivation**: Understand your system better in order to identify the pain points and improve it.
 
+**Deadline**: Before the classes next week.
+
 ---
 
 ## Requirements
