@@ -94,7 +94,7 @@ GROUP_REPOS = [
       "gitLinks": ["https://github.com/SyntaxDevopsSquad-SDS/devops-syntaxsquad"],
       "backend": "https://syntax-reborndev.com/",
       "frontend": "https://syntax-reborndev.com/",
-      "monitoring": "",
+      "monitoring": "https://monitor.syntax-reborndev.com/",
       "stack": ["GO, SQLite"],
       "documentation": [],
       "sla": "",
