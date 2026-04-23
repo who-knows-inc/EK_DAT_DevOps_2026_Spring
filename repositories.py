@@ -24,7 +24,7 @@ GROUP_REPOS = [
     "gitLinks": ["https://github.com/ASCDevOps/ASC_whoknows"],
     "backend": "https://ascsearch.dk",
     "frontend": "https://ascsearch.dk",
-    "monitoring": "",
+    "monitoring": "http://188.166.19.130:3000",
     "stack": ["GO", "SQLite","Docker","Nginx",],
     "documentation": [],
     "sla": "",
